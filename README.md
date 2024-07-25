@@ -18,5 +18,5 @@ nos permite visualizar las palabras clave y su uso según el
 categoría. Por lo tanto, es útil visualizar las palabras más comunes en una categoría en un
 forma visual, sencilla y comprensible. Permitiéndonos ver algunas similitudes.
 entre los subreddits.
-![Wordcloud](https://github.com/JorgeRodriguezAnt/Stress_Analysis/blob/main/wordcloud.png)
+
 
