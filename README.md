@@ -15,8 +15,10 @@ diferentes temas como el conflicto interpersonal que se relaciona con el abuso y
 Las nubes de palabras, también conocidas como nubes de etiquetas, son representaciones visuales de texto,
 que generalmente se utiliza para identificar palabras clave en grandes porciones de texto. Él
 nos permite visualizar las palabras clave y su uso según el
-categoría. Por lo tanto, es útil visualizar las palabras más comunes en una categoría en un
-forma visual, sencilla y comprensible. Permitiéndonos ver algunas similitudes.
-entre los subreddits.
+categoría. 
+
+Como resultado se obtiene la siguiente imagen que permite entender la existencia de alguna posible correlación entre las categorías, utilizando los problemas que tienen los usuarios de cada subreddit, y la similitud en la forma en que comunican su problema.
+
+![Understanding the data](https://github.com/JorgeRodriguezAnt/Stress_Analysis/blob/main/wordclouds.png)
 
 
